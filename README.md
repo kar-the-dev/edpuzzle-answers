@@ -86,4 +86,6 @@ The code for the video skipper is based off of [this](https://github.com/ASmallY
 
 All other code has been written solely by me, [ading2210](https://github.com/ading2210).
 
+This code has been modified for faster use and bypass blocking systems.
+
 This project is licensed under the GNU General Public License v3.0.
