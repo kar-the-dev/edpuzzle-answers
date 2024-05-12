@@ -50,15 +50,10 @@ Forking or redistributing code from this repository is fine, as long as you abid
 ## Creating the bookmarklet:
 A video tutorial can be found [here](https://www.youtube.com/watch?v=zxZzB2KXCkw).
 
-### Method 1:
- 1. Navigate to [https://edpuzzle.hs.vc](https://edpuzzle.hs.vc).
- 2. If you're on any Chromium-based browser, drag the button at the bottom of the page into your bookmarks bar.
- 3. If you're on Firefox, right click on the button and then click "bookmark link."
-
-### Method 2:
+### Installtion:
  1. Copy the following code into your clipboard:
  ```js
-javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))
+javascript: fetch("https://raw.githubusercontent.com/kar-the-dev/edpuzzle-answers/main/script.js").then(r => r.text()).then(r => eval(r))
  ```
  2. Right click on your bookmarks bar and click "add page."
  3. Set the name of the bookmark to whatever you want.
